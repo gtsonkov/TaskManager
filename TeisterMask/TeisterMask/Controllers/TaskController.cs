@@ -65,7 +65,7 @@ namespace TeisterMask.Controllers
         }
 
         [HttpGet]
-        public IActionResult Delite(int Id)
+        public IActionResult Delete(int Id)
         {
             using (var db = new TeisterMaskDbContex())
             {
