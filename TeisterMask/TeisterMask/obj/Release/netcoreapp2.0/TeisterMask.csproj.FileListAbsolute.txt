@@ -1,0 +1,11 @@
+D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\bin\Release\netcoreapp2.0\TeisterMask.deps.json
+D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\bin\Release\netcoreapp2.0\TeisterMask.runtimeconfig.json
+D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\bin\Release\netcoreapp2.0\TeisterMask.runtimeconfig.dev.json
+D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\bin\Release\netcoreapp2.0\TeisterMask.dll
+D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\bin\Release\netcoreapp2.0\TeisterMask.pdb
+D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\obj\Release\netcoreapp2.0\TeisterMask.csprojAssemblyReference.cache
+D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\obj\Release\netcoreapp2.0\TeisterMask.csproj.CoreCompileInputs.cache
+D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\obj\Release\netcoreapp2.0\TeisterMask.AssemblyInfoInputs.cache
+D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\obj\Release\netcoreapp2.0\TeisterMask.AssemblyInfo.cs
+D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\obj\Release\netcoreapp2.0\TeisterMask.dll
+D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\obj\Release\netcoreapp2.0\TeisterMask.pdb

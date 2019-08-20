@@ -1,0 +1,11 @@
+D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=TeisterMask
+--content-root=D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask
+--file=D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\Views\Shared\_Layout.cshtml
+--file=D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\Views\Task\Create.cshtml
+--file=D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\Views\Task\Delete.cshtml
+--file=D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\Views\Task\Edit.cshtml
+--file=D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\Views\Task\Index.cshtml
+--file=D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\Views\_ViewImports.cshtml
+--file=D:\SoftUni\OneDrive\C#\TaskManager\TeisterMask\TeisterMask\Views\_ViewStart.cshtml

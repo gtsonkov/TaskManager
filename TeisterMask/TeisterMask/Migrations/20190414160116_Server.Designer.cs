@@ -11,8 +11,8 @@ using TeisterMask.Data;
 namespace TeisterMask.Migrations
 {
     [DbContext(typeof(TeisterMaskDbContex))]
-    [Migration("20190409210649_Initial")]
-    partial class Initial
+    [Migration("20190414160116_Server")]
+    partial class Server
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
